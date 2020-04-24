@@ -1,6 +1,6 @@
 ## Key-Value API
 
-Реализовано на языке Python с использованием базы данных Tarantool. Протестировать можно здесь https://alexander-goryakin.droidroot1995.tk/tarantool/
+Реализовано на языке Python с использованием базы данных Tarantool. Протестировать можно здесь https://alexander-goryakin.droidroot1995.tk/kv
 
 ### Установка:
 
