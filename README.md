@@ -165,3 +165,9 @@
 > &nbsp; &nbsp; &nbsp; &nbsp;'primary'   
 > &nbsp; &nbsp; &nbsp; &nbsp;{type = 'hash', parts = {'key'}}    
 >} 
+
+
+### Тест
+На данный момент в базе записано только одно значение **state**, которое можно посмотреть по адресу
+
+>https://alexander-goryakin.droidroot1995.tk/kv/state
